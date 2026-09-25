@@ -7,7 +7,7 @@ title: Privacy Policy
 **Effective date:** 2026-09-25
 
 ## Summary
-Just Now is built to work without collecting personal data. The app does not collect, store, transmit, or sell personal information to us or to anyone else. Your moments, notes, photos, places, and settings stay on your device and, if you use iCloud, in your own private iCloud database.
+Just Now is built to work without collecting personal data. The app does not collect, store, transmit, or sell personal information to us or to anyone else. Your moments, notes, photos, places, and settings stay on your device.
 
 ## Data the app stores
 
@@ -22,9 +22,9 @@ Just Now is built to work without collecting personal data. The app does not col
 - No third-party analytics SDKs.
 - No advertising identifiers.
 
-## Data storage and iCloud
+## Data storage
 
-All app data is stored **locally on your device**. If you are signed in to iCloud, the app also keeps a copy in your **private iCloud database** so your own devices stay in sync. This database belongs to your Apple ID; we cannot read it.
+All app data is stored **locally on your device**. The app does not sync it anywhere.
 
 iOS may include the app's local data in your device backup. Backup behaviour is controlled by iOS, not by Just Now.
 
@@ -35,7 +35,7 @@ Just Now schedules local notifications on your device to ask how you feel. No pu
 ## Network
 
 - The app does not send your moments, notes, photos, or any other personal data to any server of ours. We have none.
-- The only network requests are to Apple: iCloud sync and WeatherKit, as described above.
+- The only network request is to Apple's WeatherKit, as described above, and only when a moment has a location.
 
 ## Support
 

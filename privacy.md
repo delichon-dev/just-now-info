@@ -4,10 +4,10 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective date:** 2026-09-25
+**Effective date:** 2026-09-29
 
 ## Summary
-Just Now is built to work without collecting personal data. The app does not collect, store, transmit, or sell personal information to us or to anyone else. Your moments, notes, photos, places, and settings stay on your device.
+Just Now is built to work without collecting personal data. The app does not collect, store, transmit, or sell personal information to us or to anyone else. Your moments, notes, photos, places, and settings stay on your device, except for backups you make, which go where you choose.
 
 ## Data the app stores
 
@@ -25,6 +25,15 @@ Just Now is built to work without collecting personal data. The app does not col
 ## Data storage
 
 All app data is stored **locally on your device**. The app does not sync it anywhere.
+
+## Backups
+
+When you make a backup, Just Now writes one file with your data to the place you pick in Settings › Backups:
+
+- **iCloud Drive** (the default): the file goes to iCloud Drive › Just Now in your own iCloud account. Apple stores it under Apple's privacy policy. We cannot read it.
+- **A folder you choose**: the file goes to that folder, for example on this device, in iCloud Drive, or with another storage provider you use. That provider's own privacy terms apply.
+
+A full backup contains your moments, notes, photos, places, reviews, and settings. A light backup contains the same data without photos. Nothing is sent to us.
 
 iOS may include the app's local data in your device backup. Backup behaviour is controlled by iOS, not by Just Now.
 

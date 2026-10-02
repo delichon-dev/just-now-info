@@ -14,7 +14,8 @@ Just Now is built to work without collecting personal data. The app does not col
 - **Moments** you log: a mood, and optionally a note, activities, people, and photos. All of it is entered by you.
 - **Location (optional).** If you allow location access, the app takes a single location fix when you log a moment and stores it with that moment. The fix is used to suggest one of your saved Places and to place the moment on your map. If you decline, moments simply have no location.
 - **Weather (optional).** When a moment has a location, the app asks Apple's WeatherKit for the current conditions at that spot and stores the result with the moment. Apple receives the coordinate for that request under Apple's privacy policy; nothing identifies you.
-- **Places, activities, people** you create yourself.
+- **Places, activities, people** you create yourself, with a photo if you add one.
+- **Dictated notes (optional).** If you dictate a note, your speech is turned into text on the device with Apple's on-device speech recognition. The audio is not stored and not sent anywhere; only the resulting text is kept, as part of the note. The app asks for microphone and speech-recognition permission the first time you tap the microphone.
 
 ## Analytics / tracking
 
